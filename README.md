@@ -1,2 +1,2 @@
 # Ejercicio
-https://github.com/RubenGenillo/Ej-rcicio.git
+https://github.com/RubenGenillo/Ejercicio.git
